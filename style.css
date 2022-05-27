@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(255, 217, 80);
+}
+.container .row{
+    
+    border-radius: 50px;
+}
+.card-img-top1{
+    height: 370px;
+    width: 370px;
+    margin-left: 70px;
+}
+.hikayemiz{
+    font-weight: bold;
+    font-size:xx-large;
+    color:  rgb(255, 217, 80) ;
+}
+.hikayemiz1{
+    font-weight: bold;
+    font-size:xx-large;
+    color:  rgb(255, 217, 80) ;
+}
+.text1{
+    font-weight: bold;
+    font-size:large;
+    color:white
+}
+.container2{
+    
+}
+
